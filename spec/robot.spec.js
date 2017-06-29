@@ -1,6 +1,7 @@
 'use strict';
 
 describe("Robot", function() {
+
   var robot = new Robot();
 
   it("robot bearing", function() {
